@@ -1,12 +1,12 @@
-### Hi there 👋
+### Hi there, I'm Eden 👋
 
 I’m a Software Engineer interested in the applications of Artificial Intelligence, Machine Learning, and Computer Vision. machine learning, artificial intelligence, and building innovative software solutions. I have experience in Python, Java, JavaScript (including React.js), SQL, C/C++, and have worked on frontend dev, backend dev, and mobile dev.
 
-🔭 I'm currently working as a software engineer for the NYC-based startup, Anote
-🌱 I am a graduate of Cornell's Break Through Tech AI Program, and studying on the intelligent systems track at Columbia University
-🔭 At the moment, I'm learning about Computer Vision and starting a project in it.
+- 💼 I'm currently working as a Software Engineer for the NYC-based startup, [Anote](https://anote.ai).
+- 🌱 I am a graduate of Cornell's Break Through Tech AI Program, and studying on the intelligent systems track at Columbia University.
+- 🔭 At the moment, I'm learning about Computer Vision and starting a project in it.
 
-📫 Feel free to reach out! Connect with me on LinkedIn.
+📫 Feel free to reach out! Connect with me on [LinkedIn](https://linkedin.com/in/eden-chung).
 
 
 <!--
