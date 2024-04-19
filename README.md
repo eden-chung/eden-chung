@@ -1,6 +1,6 @@
 ### Hi there, I'm Eden 👋
 
-I’m a Software Engineer interested in the applications of Artificial Intelligence, Machine Learning, and Computer Vision. I have experience in Python, Java, JavaScript (including React.js), SQL, C/C++, and have worked on frontend dev, backend dev, and mobile dev.
+I’m a Software Engineer interested in the applications of Artificial Intelligence, Machine Learning, and Computer Vision. I have experience in Python, Java, JavaScript (including React.js), SQL, C/C++, HTML, CSS, and have worked on frontend dev, backend dev, and mobile dev.
 
 - 💼 I'm currently working as a Software Engineer for the NYC-based startup, [Anote](https://anote.ai).
 - 🌱 I am a graduate of Cornell's Break Through Tech AI Program, and studying on the intelligent systems track at Columbia University.
