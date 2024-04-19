@@ -4,6 +4,7 @@ I’m a Software Engineer interested in the applications of Artificial Intellige
 
 - 💼 I'm currently working as a Software Engineer for the NYC-based startup, [Anote](https://anote.ai).
 - 🌱 I am a graduate of Cornell's Break Through Tech AI Program, and studying both Computer Science (on the intelligent systems track) and Math at Columbia University. Some cool classes I've taken: Systems Programming, Parallel Optimization, Theory of Computation, Multivariable Calculus, Linear Algebra, Ordinary Differential Equations
+- 🕹️ Some of my previous work has included: developing a web and desktop app for a industry-specific chatbot (includes using NLP, RAG, Fine-tuning techniques), developing ML models (text classification & image classification), developing a cross-platform mobile app, connecting to the Spotify API.
 - 🔭 At the moment, I'm learning about using Computer Vision and deep learning to play a video game.
 
 📫 Feel free to reach out! Connect with me on [LinkedIn](https://linkedin.com/in/eden-chung).
