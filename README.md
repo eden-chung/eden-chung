@@ -2,8 +2,8 @@
 
 I’m a Software Engineer interested in the applications of Artificial Intelligence, Machine Learning, and Computer Vision. I have experience in Python, Java, JavaScript (including React.js), SQL, C/C++, HTML, CSS, AWS deployment (Amplify, Lambda, S3, EC2, Cloudfront), and have worked on frontend dev, backend dev, and mobile dev.
 
-- 💼 I'm currently working as a Software Engineer for the NYC-based startup, [Anote](https://anote.ai).
-- 🌱 I am a graduate of Cornell's Break Through Tech AI Program, and studying both Computer Science (on the intelligent systems track) and Math at Columbia University. Some cool classes I've taken: Systems Programming, Parallel Optimization, Theory of Computation, Multivariable Calculus, Linear Algebra, Ordinary Differential Equations
+- 💼 I am a Founding Engineer at the NYC-based startup, [Anote](https://anote.ai).
+- 🌱 I am a graduate of Cornell's Break Through Tech AI Program and currently studying both Computer Science (on the intelligent systems track) and Math at Columbia University. Some cool classes I've taken: Systems Programming, Parallel Optimization, Theory of Computation, Multivariable Calculus, Linear Algebra, Ordinary Differential Equations
 - 🕹️ Some of my previous work includes: developing a web and desktop app for an industry-specific chatbot (includes using NLP, RAG, and Fine-tuning techniques), developing APIs/SDKs, developing ML models (text classification & image classification), developing a cross-platform mobile app that connects to the Spotify API, and more.
 - 🔭 At the moment, I'm learning about using Computer Vision and deep learning to play a video game.
 
